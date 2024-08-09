@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me instagram profile ceasarj.r
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: a normal man with huge expectations
+- ⚡ Fun fact: The first commit on GitHub was made by its co-founder Tom Preston-Werner on October 19, 2007. It simply read: "Initial commit."
 
 <!---
 Ceasarjulius/Ceasarjulius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
